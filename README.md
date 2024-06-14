@@ -1,3 +1,1 @@
-# FOR RUNNING THE APPLICATION
-
-npm run dev
+# React Real Estate UI Design
